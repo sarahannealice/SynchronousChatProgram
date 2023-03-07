@@ -36,6 +36,8 @@ namespace ServerClientChat
                 //looks for sent messages
                 ReceiveMsg();
 
+                //checks to see if any key was pressed
+                //if so, the listening loop restarts
                 if (!Console.KeyAvailable)
                 {
                     continue;
@@ -97,6 +99,7 @@ namespace ServerClientChat
             Stream.Write(data, 0, msg.Length);
         }
 
+        //safely disconnects -- closes stream and exits environments
         public void Disconnect()
         {
             Stream.Close();

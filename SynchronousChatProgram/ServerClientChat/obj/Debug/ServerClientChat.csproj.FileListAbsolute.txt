@@ -4,3 +4,9 @@ C:\Users\sarah\Desktop\sarah\nscc\winter2023\PROG2200\SynchronousChatProgram\Ser
 C:\Users\sarah\Desktop\sarah\nscc\winter2023\PROG2200\SynchronousChatProgram\ServerClientChat\bin\Debug\ServerClientChat.pdb
 C:\Users\sarah\Desktop\sarah\nscc\winter2023\PROG2200\SynchronousChatProgram\ServerClientChat\obj\Debug\ServerClientChat.dll
 C:\Users\sarah\Desktop\sarah\nscc\winter2023\PROG2200\SynchronousChatProgram\ServerClientChat\obj\Debug\ServerClientChat.pdb
+C:\Users\sarah\Desktop\sarah\nscc\winter2023\PROG2200\SynchronousChatProgram\SynchronousChatProgram\ServerClientChat\bin\Debug\ServerClientChat.dll
+C:\Users\sarah\Desktop\sarah\nscc\winter2023\PROG2200\SynchronousChatProgram\SynchronousChatProgram\ServerClientChat\bin\Debug\ServerClientChat.pdb
+C:\Users\sarah\Desktop\sarah\nscc\winter2023\PROG2200\SynchronousChatProgram\SynchronousChatProgram\ServerClientChat\obj\Debug\ServerClientChat.csproj.AssemblyReference.cache
+C:\Users\sarah\Desktop\sarah\nscc\winter2023\PROG2200\SynchronousChatProgram\SynchronousChatProgram\ServerClientChat\obj\Debug\ServerClientChat.csproj.CoreCompileInputs.cache
+C:\Users\sarah\Desktop\sarah\nscc\winter2023\PROG2200\SynchronousChatProgram\SynchronousChatProgram\ServerClientChat\obj\Debug\ServerClientChat.dll
+C:\Users\sarah\Desktop\sarah\nscc\winter2023\PROG2200\SynchronousChatProgram\SynchronousChatProgram\ServerClientChat\obj\Debug\ServerClientChat.pdb

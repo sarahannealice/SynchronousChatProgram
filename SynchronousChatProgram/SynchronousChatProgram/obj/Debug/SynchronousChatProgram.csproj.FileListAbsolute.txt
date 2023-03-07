@@ -8,3 +8,13 @@ C:\Users\sarah\Desktop\sarah\nscc\winter2023\PROG2200\SynchronousChatProgram\Syn
 C:\Users\sarah\Desktop\sarah\nscc\winter2023\PROG2200\SynchronousChatProgram\SynchronousChatProgram\obj\Debug\SynchronousChatProgram.csproj.CopyComplete
 C:\Users\sarah\Desktop\sarah\nscc\winter2023\PROG2200\SynchronousChatProgram\SynchronousChatProgram\obj\Debug\SynchronousChatProgram.exe
 C:\Users\sarah\Desktop\sarah\nscc\winter2023\PROG2200\SynchronousChatProgram\SynchronousChatProgram\obj\Debug\SynchronousChatProgram.pdb
+C:\Users\sarah\Desktop\sarah\nscc\winter2023\PROG2200\SynchronousChatProgram\SynchronousChatProgram\SynchronousChatProgram\bin\Debug\SynchronousChatProgram.exe
+C:\Users\sarah\Desktop\sarah\nscc\winter2023\PROG2200\SynchronousChatProgram\SynchronousChatProgram\SynchronousChatProgram\bin\Debug\SynchronousChatProgram.pdb
+C:\Users\sarah\Desktop\sarah\nscc\winter2023\PROG2200\SynchronousChatProgram\SynchronousChatProgram\SynchronousChatProgram\bin\Debug\ServerClientChat.dll
+C:\Users\sarah\Desktop\sarah\nscc\winter2023\PROG2200\SynchronousChatProgram\SynchronousChatProgram\SynchronousChatProgram\bin\Debug\ServerClientChat.pdb
+C:\Users\sarah\Desktop\sarah\nscc\winter2023\PROG2200\SynchronousChatProgram\SynchronousChatProgram\SynchronousChatProgram\obj\Debug\SynchronousChatProgram.csproj.AssemblyReference.cache
+C:\Users\sarah\Desktop\sarah\nscc\winter2023\PROG2200\SynchronousChatProgram\SynchronousChatProgram\SynchronousChatProgram\obj\Debug\SynchronousChatProgram.csproj.SuggestedBindingRedirects.cache
+C:\Users\sarah\Desktop\sarah\nscc\winter2023\PROG2200\SynchronousChatProgram\SynchronousChatProgram\SynchronousChatProgram\obj\Debug\SynchronousChatProgram.csproj.CoreCompileInputs.cache
+C:\Users\sarah\Desktop\sarah\nscc\winter2023\PROG2200\SynchronousChatProgram\SynchronousChatProgram\SynchronousChatProgram\obj\Debug\SynchronousChatProgram.csproj.CopyComplete
+C:\Users\sarah\Desktop\sarah\nscc\winter2023\PROG2200\SynchronousChatProgram\SynchronousChatProgram\SynchronousChatProgram\obj\Debug\SynchronousChatProgram.exe
+C:\Users\sarah\Desktop\sarah\nscc\winter2023\PROG2200\SynchronousChatProgram\SynchronousChatProgram\SynchronousChatProgram\obj\Debug\SynchronousChatProgram.pdb
